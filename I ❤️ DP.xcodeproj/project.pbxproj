@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E94C9CD62B6B3D2000DE77FA /* I am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E94C9CD62B6B3D2000DE77FA /* I ❤️ DP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I ❤️ DP.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E94C9CD92B6B3D2000DE77FA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E94C9CDB2B6B3D2000DE77FA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E94C9CDD2B6B3D2000DE77FA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -44,9 +44,9 @@
 		E94C9CE22B6B3D2200DE77FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E94C9CE52B6B3D2200DE77FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E94C9CE72B6B3D2200DE77FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E94C9CEC2B6B3D2200DE77FA /* I am RichTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I am RichTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E94C9CEC2B6B3D2200DE77FA /* I ❤️ DPTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I ❤️ DPTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E94C9CF02B6B3D2200DE77FA /* I_am_RichTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_am_RichTests.swift; sourceTree = "<group>"; };
-		E94C9CF62B6B3D2200DE77FA /* I am RichUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I am RichUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E94C9CF62B6B3D2200DE77FA /* I ❤️ DPUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I ❤️ DPUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E94C9CFA2B6B3D2200DE77FA /* I_am_RichUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_am_RichUITests.swift; sourceTree = "<group>"; };
 		E94C9CFC2B6B3D2200DE77FA /* I_am_RichUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_am_RichUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -89,9 +89,9 @@
 		E94C9CD72B6B3D2000DE77FA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E94C9CD62B6B3D2000DE77FA /* I am Rich.app */,
-				E94C9CEC2B6B3D2200DE77FA /* I am RichTests.xctest */,
-				E94C9CF62B6B3D2200DE77FA /* I am RichUITests.xctest */,
+				E94C9CD62B6B3D2000DE77FA /* I ❤️ DP.app */,
+				E94C9CEC2B6B3D2200DE77FA /* I ❤️ DPTests.xctest */,
+				E94C9CF62B6B3D2200DE77FA /* I ❤️ DPUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -130,9 +130,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E94C9CD52B6B3D2000DE77FA /* I am Rich */ = {
+		E94C9CD52B6B3D2000DE77FA /* I ❤️ DP */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E94C9D002B6B3D2200DE77FA /* Build configuration list for PBXNativeTarget "I am Rich" */;
+			buildConfigurationList = E94C9D002B6B3D2200DE77FA /* Build configuration list for PBXNativeTarget "I ❤️ DP" */;
 			buildPhases = (
 				E94C9CD22B6B3D2000DE77FA /* Sources */,
 				E94C9CD32B6B3D2000DE77FA /* Frameworks */,
@@ -142,14 +142,14 @@
 			);
 			dependencies = (
 			);
-			name = "I am Rich";
+			name = "I ❤️ DP";
 			productName = "I am Rich";
-			productReference = E94C9CD62B6B3D2000DE77FA /* I am Rich.app */;
+			productReference = E94C9CD62B6B3D2000DE77FA /* I ❤️ DP.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E94C9CEB2B6B3D2200DE77FA /* I am RichTests */ = {
+		E94C9CEB2B6B3D2200DE77FA /* I ❤️ DPTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E94C9D032B6B3D2200DE77FA /* Build configuration list for PBXNativeTarget "I am RichTests" */;
+			buildConfigurationList = E94C9D032B6B3D2200DE77FA /* Build configuration list for PBXNativeTarget "I ❤️ DPTests" */;
 			buildPhases = (
 				E94C9CE82B6B3D2200DE77FA /* Sources */,
 				E94C9CE92B6B3D2200DE77FA /* Frameworks */,
@@ -160,14 +160,14 @@
 			dependencies = (
 				E94C9CEE2B6B3D2200DE77FA /* PBXTargetDependency */,
 			);
-			name = "I am RichTests";
+			name = "I ❤️ DPTests";
 			productName = "I am RichTests";
-			productReference = E94C9CEC2B6B3D2200DE77FA /* I am RichTests.xctest */;
+			productReference = E94C9CEC2B6B3D2200DE77FA /* I ❤️ DPTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		E94C9CF52B6B3D2200DE77FA /* I am RichUITests */ = {
+		E94C9CF52B6B3D2200DE77FA /* I ❤️ DPUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E94C9D062B6B3D2200DE77FA /* Build configuration list for PBXNativeTarget "I am RichUITests" */;
+			buildConfigurationList = E94C9D062B6B3D2200DE77FA /* Build configuration list for PBXNativeTarget "I ❤️ DPUITests" */;
 			buildPhases = (
 				E94C9CF22B6B3D2200DE77FA /* Sources */,
 				E94C9CF32B6B3D2200DE77FA /* Frameworks */,
@@ -178,9 +178,9 @@
 			dependencies = (
 				E94C9CF82B6B3D2200DE77FA /* PBXTargetDependency */,
 			);
-			name = "I am RichUITests";
+			name = "I ❤️ DPUITests";
 			productName = "I am RichUITests";
-			productReference = E94C9CF62B6B3D2200DE77FA /* I am RichUITests.xctest */;
+			productReference = E94C9CF62B6B3D2200DE77FA /* I ❤️ DPUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -206,7 +206,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E94C9CD12B6B3D2000DE77FA /* Build configuration list for PBXProject "I am Rich" */;
+			buildConfigurationList = E94C9CD12B6B3D2000DE77FA /* Build configuration list for PBXProject "I ❤️ DP" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -219,9 +219,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E94C9CD52B6B3D2000DE77FA /* I am Rich */,
-				E94C9CEB2B6B3D2200DE77FA /* I am RichTests */,
-				E94C9CF52B6B3D2200DE77FA /* I am RichUITests */,
+				E94C9CD52B6B3D2000DE77FA /* I ❤️ DP */,
+				E94C9CEB2B6B3D2200DE77FA /* I ❤️ DPTests */,
+				E94C9CF52B6B3D2200DE77FA /* I ❤️ DPUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -286,12 +286,12 @@
 /* Begin PBXTargetDependency section */
 		E94C9CEE2B6B3D2200DE77FA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E94C9CD52B6B3D2000DE77FA /* I am Rich */;
+			target = E94C9CD52B6B3D2000DE77FA /* I ❤️ DP */;
 			targetProxy = E94C9CED2B6B3D2200DE77FA /* PBXContainerItemProxy */;
 		};
 		E94C9CF82B6B3D2200DE77FA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E94C9CD52B6B3D2000DE77FA /* I am Rich */;
+			target = E94C9CD52B6B3D2000DE77FA /* I ❤️ DP */;
 			targetProxy = E94C9CF72B6B3D2200DE77FA /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -442,13 +442,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69C4JPBU98;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "I am Rich/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -469,13 +471,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69C4JPBU98;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "I am Rich/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -504,7 +508,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/I am Rich.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/I am Rich";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/I ❤️ DP.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/I ❤️ DP";
 			};
 			name = Debug;
 		};
@@ -523,7 +527,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/I am Rich.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/I am Rich";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/I ❤️ DP.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/I ❤️ DP";
 			};
 			name = Release;
 		};
@@ -564,7 +568,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E94C9CD12B6B3D2000DE77FA /* Build configuration list for PBXProject "I am Rich" */ = {
+		E94C9CD12B6B3D2000DE77FA /* Build configuration list for PBXProject "I ❤️ DP" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E94C9CFE2B6B3D2200DE77FA /* Debug */,
@@ -573,7 +577,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E94C9D002B6B3D2200DE77FA /* Build configuration list for PBXNativeTarget "I am Rich" */ = {
+		E94C9D002B6B3D2200DE77FA /* Build configuration list for PBXNativeTarget "I ❤️ DP" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E94C9D012B6B3D2200DE77FA /* Debug */,
@@ -582,7 +586,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E94C9D032B6B3D2200DE77FA /* Build configuration list for PBXNativeTarget "I am RichTests" */ = {
+		E94C9D032B6B3D2200DE77FA /* Build configuration list for PBXNativeTarget "I ❤️ DPTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E94C9D042B6B3D2200DE77FA /* Debug */,
@@ -591,7 +595,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E94C9D062B6B3D2200DE77FA /* Build configuration list for PBXNativeTarget "I am RichUITests" */ = {
+		E94C9D062B6B3D2200DE77FA /* Build configuration list for PBXNativeTarget "I ❤️ DPUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E94C9D072B6B3D2200DE77FA /* Debug */,
